@@ -1,1 +1,1 @@
-### Lab Manual - [Click Here](DSA Lab Manual)
+### [DSA Lab Manual](DSA Lab Manual)
