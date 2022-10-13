@@ -1,1 +1,1 @@
-## [DSA Lab Manual](LabManual)
+## [DSA Lab Manual](LabManual.pdf)
