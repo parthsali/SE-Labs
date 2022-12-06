@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment-01/Assignment-01.iml" filepath="$PROJECT_DIR$/Assignment-01/Assignment-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-02/Assignment-02.iml" filepath="$PROJECT_DIR$/Assignment-02/Assignment-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-03/Assignment-03.iml" filepath="$PROJECT_DIR$/Assignment-03/Assignment-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-04/Assignment-04.iml" filepath="$PROJECT_DIR$/Assignment-04/Assignment-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-05/Assignment-05.iml" filepath="$PROJECT_DIR$/Assignment-05/Assignment-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-07/Assignment-07.iml" filepath="$PROJECT_DIR$/Assignment-07/Assignment-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-08/Assignment-08.iml" filepath="$PROJECT_DIR$/Assignment-08/Assignment-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment-10/Assignment-10.iml" filepath="$PROJECT_DIR$/Assignment-10/Assignment-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+    </modules>
+  </component>
+</project>
