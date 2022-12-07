@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 enum model{
     SEDAN,
     SUV,
