@@ -1,4 +1,3 @@
-import jdk.dynalink.beans.StaticClass;
 
 import java.util.Scanner;
 public class Main {

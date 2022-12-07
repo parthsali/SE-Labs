@@ -3,7 +3,7 @@ public class Magazine extends Publication{
     int orderQty;
     String currentIssue;
     public double MagSell;
-    public double totalMagSell;
+    public static double totalMagSell;
     Scanner sc = new Scanner(System.in);
 
 //    int getOrderQty(){
@@ -25,8 +25,8 @@ public class Magazine extends Publication{
     @Override
     void saleCopy(){
         MagSell = (this.copies * this.price);
-        totalMagSell += MagSell;
-        totalPrice += totalMagSell;
+        Magazine.totalMagSell += MagSell;
+        Publication.totalPrice += totalMagSell;
         System.out.print("\n");
         System.out.println("Ordered Magazine :" + this.title);
         System.out.println("Total Amount : " + MagSell);
@@ -34,7 +34,6 @@ public class Magazine extends Publication{
 
     }
     void totalMagSell(){
-
         System.out.println("Total Magazine Sell : " + totalMagSell);
     }
 }

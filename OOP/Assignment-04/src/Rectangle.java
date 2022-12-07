@@ -1,5 +1,6 @@
 public class Rectangle extends Shape{
-    void getDim(){
+    @Override
+    public void getDim(){
         System.out.println("Enter Rectangle's Dimension : ");
         System.out.print("Enter Width : ");
         base = sc.nextDouble();

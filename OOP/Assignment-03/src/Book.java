@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Book extends Publication{
     String author;
     public double bookSell;
-    public double totalBookSell;
+    public static double totalBookSell;
     public Scanner sc = new Scanner(System.in);
 
     void getAuthor(){
@@ -23,8 +23,8 @@ public class Book extends Publication{
     @Override
     void saleCopy(){
         bookSell = (this.copies * this.price);
-        totalBookSell += bookSell;
-        totalPrice += totalBookSell;
+        Book.totalBookSell += bookSell;
+        Publication.totalPrice += totalBookSell;
         System.out.print("\n");
         System.out.println("Ordered Book : " + this.title);
         System.out.println("Total Amount : " + bookSell);

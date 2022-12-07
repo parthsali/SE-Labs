@@ -8,7 +8,6 @@ public class Publication {
     
     void getData(){
         System.out.print("Enter Title : ");
-        sc.next();
         title = sc.nextLine();
 
         System.out.print("Enter Price : ");

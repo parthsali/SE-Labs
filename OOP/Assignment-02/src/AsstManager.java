@@ -13,7 +13,7 @@ public class AsstManager extends Employee {
             System.out.println("-----Programmer`s Data-----");
             getData();
             getBasicPay();
-            status = "Asst. Manager";
+            super.status = "Asst. Manager";
             displayData();
             generateSlip();
         }

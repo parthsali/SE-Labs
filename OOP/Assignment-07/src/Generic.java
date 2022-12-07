@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Generic <T> {
     Scanner sc = new Scanner(System.in);
-    ArrayList<T> array = new ArrayList<>();
+    ArrayList<T> array = new ArrayList<T>();
 
 
     public void getData() {
@@ -64,7 +64,7 @@ public class Generic <T> {
     public void printEvenNums() {
         System.out.println("Even Numbers Are : ");
         for (int i = 0; i < array.size(); i++) {
-            int num = Integer.parseInt((String) array.get(i)) ;
+            int num = Integer.parseInt((String)array.get(i)) ;
             if (isEven(num)) {
                 System.out.print(num + " ");
             }
