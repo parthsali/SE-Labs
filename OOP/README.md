@@ -1,4 +1,4 @@
-## [OOP Lab Manual](README.md)
+## OOP Lab Manual - [Click here](OOP Lab Manual.pdf)
 
 ### Table of Content
 | *Sr. No* | *Name of the Assignment* | *Problem Statement* |
