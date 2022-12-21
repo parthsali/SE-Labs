@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-## Lab Manual - [OOP Lab Manual](https://github.com/parthsali/SE_Labs/blob/master/OOP/OOP%20Lab%20Manual.pdf)
-=======
-## OOP Lab Manual - [Click here](OOP Lab Manual.pdf)
+## OOP Lab Manual - [Click here](OOPLabManual.pdf)
 
 ### Table of Content
 | *Sr. No* | *Name of the Assignment* | *Problem Statement* |
