@@ -2,9 +2,9 @@
 
 ### INDEX OF LAB EXPERIMENTS
 
-| _LAB EXPT NO_ | PROBLEM STATEMENT |
+| LAB EXPT NO | PROBLEM STATEMENT |
 
-| :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :---: | :--- |
 | 1 | Consider a student database of SEIT class (at least 15 records). Database contains different fields of every student like Roll No, Name and SGPA. (array of structure)<br>&nbsp;&nbsp;&nbsp;&nbsp;a. Design a roll call list, arrange list of students according to roll numbers in ascending order (**Use Bubble Sort**)<br>&nbsp;&nbsp;&nbsp;&nbsp;b. Arrange list of students alphabetically. (**Use Insertion sort**)<br>&nbsp;&nbsp;&nbsp;&nbsp;c. Arrange list of students to find out first ten toppers from a class. (**Use Quick sort**)<br>&nbsp;&nbsp;&nbsp;&nbsp;d. Search students according to SGPA. If more than one student having same SGPA, then print list of all students having same SGPA.<br>&nbsp;&nbsp;&nbsp;&nbsp;e. Search a particular student according to name using binary search without recursion.<br>(All the student records having the presence of search key should be displayed)<br>(Note: Implement either Bubble sort or Insertion Sort.) |
 | 2 | Implement stack as an abstract data type using singly linked list and use this ADT for conversion of infix expression to postfix, prefix and evaluation of postfix and prefix expression. |
 | 3 | Implement Circular Queue using Array. Perform following operations on it.<br>&nbsp;&nbsp;&nbsp;&nbsp;a) Insertion (Enqueue)<br>&nbsp;&nbsp;&nbsp;&nbsp;b) Deletion (Dequeue)<br>&nbsp;&nbsp;&nbsp;&nbsp;c) Display<br>&nbsp;&nbsp;&nbsp;&nbsp;(Note: Handle queue full condition by considering a fixed size of a queue.) |
