@@ -14,3 +14,19 @@
 |       8       | Represent a graph of city using adjacency matrix /adjacency list. Nodes should represent the various landmarks and links should represent the distance between them. Find the shortest path using Dijkstra's algorithm from single source to all destination. Analyze the implemented algorithm for space and time complexity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |       9       | Implement Heap sort to sort given set of values using max or min heap.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |      10       | Department maintains student’s database. The file contains roll number, name, division and address. Write a program to create a sequential file to store and maintain student data.<br>It should allow the user to <br>&nbsp;&nbsp;&nbsp;&nbsp; a) Create a student database<br>&nbsp;&nbsp;&nbsp;&nbsp;b) Add a information of student<br>&nbsp;&nbsp;&nbsp;&nbsp;c) Delete information of student<br>&nbsp;&nbsp;&nbsp;&nbsp;d) Search and Display information of particular student.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. If record of student does not exist an appropriate message is displayed.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii. If student record is found it should display the student details.<br>&nbsp;&nbsp;&nbsp;&nbsp;e) Display Record of All students in tabular from                                                                                                                                                     |
+
+### Assignment PDF's
+
+| Assignment No. |                     PDF                      |
+| :------------: | :------------------------------------------: |
+| Assignment-01  | [Code+Output](Assignment-01/Code+Output.pdf) |
+| Assignment-02  | [Code+Output](Assignment-02/Code+Output.pdf) |
+| Assignment-03  | [Code+Output](Assignment-03/Code+Output.pdf) |
+| Assignment-04  | [Code+Output](Assignment-04/Code+Output.pdf) |
+| Assignment-05  | [Code+Output](Assignment-05/Code+Output.pdf) |
+| Assignment-06  | [Code+Output](Assignment-06/Code+Output.pdf) |
+| Assignment-07  | [Code+Output](Assignment-07/Code+Output.pdf) |
+| Assignment-08  | [Code+Output](Assignment-08/Code+Output.pdf) |
+| Assignment-09  | [Code+Output](Assignment-09/Code+Output.pdf) |
+| Assignment-10  | [Code+Output](Assignment-10/Code+Output.pdf) |
+| Assignment-11  | [Code+Output](Assignment-11/Code+Output.pdf) |

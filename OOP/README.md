@@ -16,17 +16,18 @@
 |    10    | [Factory Design Pattern](Assignment-10)  | Implement Factory design pattern for the given context. Consider Car building process, which requires many steps from allocating accessories to final makeup. These steps should be written as methods and should be called while creating an instance of a specific car type. Hatchback, Sedan, SUV could be the subclasses of Car class. Car class and its subclasses, CarFactory and TestFactoryPattern should be implemented.                                                                                                                                      |
 |    11    | [Strategy Design Pattern](Assignment-01) | Implement and apply Strategy Design pattern for simple Shopping Cart where three payment strategies are used such as Credit Card, PayPal, BitCoin. Create an interface for strategy pattern and give concrete implementation for payment.                                                                                                                                                                                                                                                                                                                              |
 
-Assignment PDF's
-| Assignment No. | PDF |
-| :---: | :--- |
-| Assignment-01 | [Code+Output](Assignment-01/Code+Output.pdf) |
-| Assignment-02 | [Code+Output](Assignment-02/Code+Output.pdf) |
-| Assignment-03 | [Code+Output](Assignment-03/Code+Output.pdf) |
-| Assignment-04 | [Code+Output](Assignment-04/Code+Output.pdf) |
-| Assignment-05 | [Code+Output](Assignment-05/Code+Output.pdf) |
-| Assignment-06 | [Code+Output](Assignment-06/Code+Output.pdf) |
-| Assignment-07 | [Code+Output](Assignment-07/Code+Output.pdf) |
-| Assignment-08 | [Code+Output](Assignment-08/Code+Output.pdf) |
-| Assignment-09 | [Code+Output](Assignment-09/Code+Output.pdf) |
-| Assignment-10 | [Code+Output](Assignment-10/Code+Output.pdf) |
-| Assignment-11 | [Code+Output](Assignment-11/Code+Output.pdf) |
+### Assignment PDF's
+
+| Assignment No. |                     PDF                      |
+| :------------: | :------------------------------------------: |
+| Assignment-01  | [Code+Output](Assignment-01/Code+Output.pdf) |
+| Assignment-02  | [Code+Output](Assignment-02/Code+Output.pdf) |
+| Assignment-03  | [Code+Output](Assignment-03/Code+Output.pdf) |
+| Assignment-04  | [Code+Output](Assignment-04/Code+Output.pdf) |
+| Assignment-05  | [Code+Output](Assignment-05/Code+Output.pdf) |
+| Assignment-06  | [Code+Output](Assignment-06/Code+Output.pdf) |
+| Assignment-07  | [Code+Output](Assignment-07/Code+Output.pdf) |
+| Assignment-08  | [Code+Output](Assignment-08/Code+Output.pdf) |
+| Assignment-09  | [Code+Output](Assignment-09/Code+Output.pdf) |
+| Assignment-10  | [Code+Output](Assignment-10/Code+Output.pdf) |
+| Assignment-11  | [Code+Output](Assignment-11/Code+Output.pdf) |
