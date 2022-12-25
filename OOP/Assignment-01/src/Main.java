@@ -1,6 +1,12 @@
+// Assignment-01 : Classes and Object.
+
+// Problem Statement : Design a class ‘Complex’with data members for real and imaginary part.
+// Provide default and Parameterized constructors. Write a program to perform arithmetic 
+// operations of two complex numbers.
+
+// Program by : Parth Sali.
+
 import java.util.Scanner;
-
-
 
 public class Main {
     static Scanner sc = new Scanner(System.in);
