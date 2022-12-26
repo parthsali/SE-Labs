@@ -1,5 +1,6 @@
 public class Triangle extends Shape{
-
+    
+    @Override
     void getDim(){
         System.out.println("Enter Triangle's Dimension : ");
         System.out.print("Enter Base : ");
