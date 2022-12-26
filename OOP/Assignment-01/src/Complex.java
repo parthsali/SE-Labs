@@ -39,7 +39,21 @@ class Complex{
 
     public void displayComplexNum(){
         System.out.println();
-        System.out.println("Final Complex Number : " + this.real + " + " +  this.img + "i");
+        if(this.real == 0 && this.img == 0){
+            System.out.println("Final Complex Number is : " + 0);
+        }
+        else if(this.real == 0 && this.img != 0){
+            System.out.println("Final Complex Number is : " + this.img + "i");
+        }
+        else if(this.real != 0 && this.img == 0){
+            System.out.println("Final Complex Number is : " + this.real);
+        }
+        else if(this.img < 0){
+            System.out.println("Final Complex Number is : " + this.real + this.img + "i");
+        }
+        else{
+            System.out.println("Final Complex Number is : " + this.real + "+" + this.img + "i");
+        }
         System.out.println();
     }
 
