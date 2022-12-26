@@ -20,14 +20,14 @@
 
 | Assignment No. |                     PDF                      |
 | :------------: | :------------------------------------------: |
-| Assignment-01  | [Code+Output](Assignment-01/Code+Output.pdf) |
-| Assignment-02  | [Code+Output](Assignment-02/Code+Output.pdf) |
-| Assignment-03  | [Code+Output](Assignment-03/Code+Output.pdf) |
-| Assignment-04  | [Code+Output](Assignment-04/Code+Output.pdf) |
-| Assignment-05  | [Code+Output](Assignment-05/Code+Output.pdf) |
-| Assignment-06  | [Code+Output](Assignment-06/Code+Output.pdf) |
-| Assignment-07  | [Code+Output](Assignment-07/Code+Output.pdf) |
-| Assignment-08  | [Code+Output](Assignment-08/Code+Output.pdf) |
-| Assignment-09  | [Code+Output](Assignment-09/Code+Output.pdf) |
-| Assignment-10  | [Code+Output](Assignment-10/Code+Output.pdf) |
-| Assignment-11  | [Code+Output](Assignment-11/Code+Output.pdf) |
+| Assignment-01  | [Code+Output](Assignment-01/Code+Output.txt) |
+| Assignment-02  | [Code+Output](Assignment-02/Code+Output.txt) |
+| Assignment-03  | [Code+Output](Assignment-03/Code+Output.txt) |
+| Assignment-04  | [Code+Output](Assignment-04/Code+Output.txt) |
+| Assignment-05  | [Code+Output](Assignment-05/Code+Output.txt) |
+| Assignment-06  | [Code+Output](Assignment-06/Code+Output.txt) |
+| Assignment-07  | [Code+Output](Assignment-07/Code+Output.txt) |
+| Assignment-08  | [Code+Output](Assignment-08/Code+Output.txt) |
+| Assignment-09  | [Code+Output](Assignment-09/Code+Output.txt) |
+| Assignment-10  | [Code+Output](Assignment-10/Code+Output.txt) |
+| Assignment-11  | [Code+Output](Assignment-11/Code+Output.txt) |
