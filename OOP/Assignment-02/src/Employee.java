@@ -9,14 +9,13 @@ public class Employee {
     String employeeAd;
     int employeeMob;
     double basicPay;
+    Scanner sc = new Scanner(System.in);
 
     void getData(){
-        int min = 1000000;
-        int max = 9999999;
-        Scanner sc = new Scanner(System.in);
         System.out.print("Name: ");
         employeeName = sc.nextLine();
-        employeeID = (int)(Math.random()*(max - min + 1) + min);
+        System.out.print("ID: ");
+        employeeID = sc.nextInt();
         System.out.print("Mail: ");
         employeeMail = sc.nextLine();
         System.out.print("Address: ");
