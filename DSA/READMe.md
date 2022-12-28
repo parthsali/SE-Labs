@@ -1,4 +1,4 @@
-## [DSA Lab Manual](DSALabManual.pdf)
+# DSA Lab Manual - [Click Here](DSALabManual.pdf)
 
 ### INDEX OF LAB EXPERIMENTS
 
