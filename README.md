@@ -1,2 +1,2 @@
-##  [Data Structures & Algorithms Lab](DSA)
-## [Object Oriented Programming Lab](OOP)
+#  [Data Structures & Algorithms Lab](DSA)
+# [Object Oriented Programming Lab](OOP)
